@@ -1,1 +1,1 @@
-# -Intelligent-system-for-blah-recognition
+# Intelligent-system-for-blah-recognition
